@@ -1,6 +1,6 @@
 # Architecture Overview
 
-EC2 / Lambda
+     EC2
      ↓ (metrics)
 CloudWatch (CPU / Errors)
      ↓ (Alarm triggers)
