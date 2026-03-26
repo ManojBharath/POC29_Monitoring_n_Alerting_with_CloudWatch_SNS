@@ -1,6 +1,5 @@
 # Architecture Overview
-
-     EC2
+EC2
      ↓ (metrics)
 CloudWatch (CPU / Errors)
      ↓ (Alarm triggers)
